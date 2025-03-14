@@ -15,15 +15,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Reda-Ganoutre01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Reda-Ganoutre01&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Reda-Ganoutre01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reda-Ganoutre01/Reda-Ganoutre01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reda-Ganoutre01/Reda-Ganoutre01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Reda-Ganoutre01/Reda-Ganoutre01/output/github-snake.svg" />
+</picture>
 
 🔥 **"Code, Innovate, Repeat!"** 🚀
