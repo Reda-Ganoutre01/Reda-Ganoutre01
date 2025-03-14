@@ -1,6 +1,6 @@
 # 🚀 Reda Ganoutre - Full-Stack Developer
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)
+
 
 ## 👋 About Me
 Hi there! I'm **Reda Gntt**, a passionate **Full-Stack Developer** with a love for building digital solutions that make an impact. I specialize in **JavaScript, PHP, Laravel, React, Node.js, and more**. I'm constantly learning and exploring new technologies to improve my skills.
