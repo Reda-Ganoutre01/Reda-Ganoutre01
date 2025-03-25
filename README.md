@@ -1,4 +1,4 @@
-# 🚀 Reda Ganoutre - Full-Stack Developer
+# 🚀 Reda Ganoutre  -  Full-Stack Developer
 
 
 # 💫 About Me:
