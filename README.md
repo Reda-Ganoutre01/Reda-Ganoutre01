@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 Currently working on: Advanced Library Management System 📚<br>🌱 Learning: Spring Boot, Tailwind CSS, Nextjs<br>📫 Contact me: bganoutre52@gmail.com
+🔭 Currently working on: Advanced Library Management System 📚<br>🌱 Learning: Spring Boot, Tailwind CSS, DevOps, Nextjs<br>📫 Contact me: bganoutre52@gmail.com
 
 
 # 💻 Tech Stack:
