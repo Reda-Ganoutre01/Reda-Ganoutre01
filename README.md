@@ -18,12 +18,19 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Reda-Ganoutre01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Reda-Ganoutre01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reda-Ganoutre01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reda-Ganoutre01&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reda-Ganoutre01&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reda-Ganoutre01&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Reda-Ganoutre01&theme=tokyonight)](https://git.io/streak-stats)
+
+
+</div>
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Reda-Ganoutre01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Reda-Ganoutre01&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
 
