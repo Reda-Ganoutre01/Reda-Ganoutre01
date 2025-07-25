@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-ganoutre-8796262b6/)
 [![GitHub](https://img.shields.io/github/followers/Reda-Ganoutre01?label=follow&style=flat-square&logo=github&logoColor=white)](https://github.com/Reda-Ganoutre01)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:reda.ganoutre@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:bganoutre52@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=safari)](https://itsme.Reda-Ganoutre01.dev)
 </div>
 
