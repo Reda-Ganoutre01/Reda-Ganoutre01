@@ -30,7 +30,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reda-Ganoutre01&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reda-Ganoutre01&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reda-Ganoutre01&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Reda-Ganoutre01&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reda-Ganoutre01&theme=tokyonight)](https://git.io/streak-stats)
 
 
 </div>
