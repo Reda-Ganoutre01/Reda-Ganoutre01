@@ -1,9 +1,9 @@
-# <div align="center">👨‍💻 Reda Ganoutre</div>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=robot&size=32&center=true&weight=200&vCenter=true&width=800&height=70&color=4493F8&duration=1000&pause=2000&lines=Hi+there;I+am+Reda+Ganoutre👨‍💻;Full-Stack+Developer;Android+Developer;DevOps;Developer" />
+</h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-Stack+Developer;Android+Developer;DevOps+Developer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-ganoutre-8796262b6/)
 [![GitHub](https://img.shields.io/github/followers/Reda-Ganoutre01?label=follow&style=flat-square&logo=github&logoColor=white)](https://github.com/Reda-Ganoutre01)
