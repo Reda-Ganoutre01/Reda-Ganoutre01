@@ -2,12 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=robot&size=32&center=true&weight=200&vCenter=true&width=800&height=70&color=4493F8&duration=1000&pause=2000&lines=Hi+there;I+am+Reda+Ganoutre👨‍💻;Software+Engineer;Full-Stack+Developer;Android+Developer;DevOps;Developer" />
 </h1>
 
-# 👩‍💻 About Me
-🌱 Currently learning **Web Development**  
-🧠 Practicing **Spring Boot, Java, Next.js, SQL, and Web Development**  
-🔧 Building projects with **PHP, Laravel, React, Spring Boot, MongoDB, and MySQL**  
-🎯 Goal: Become a **Professional Software Engineer**  
-⚡ I enjoy solving problems and exploring **new technologies**
+👩‍💻 About Me
+Currently learning **Web Development**  
+Practicing **Spring Boot, Java, Next.js, SQL, and Web Development**  
+Building projects with **PHP, Laravel, React, Spring Boot, MongoDB, and MySQL**  
+Goal: Become a **Professional Software Engineer**  
+I enjoy solving problems and exploring **new technologies**
 <div align="center">
 
 
